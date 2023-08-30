@@ -288,7 +288,7 @@ body{
 .container{
     visibility: hidden;
     position: relative;
-    LEFT: 75px;
+   
  /* Adjust this value as needed */
     z-index: 100;
     top:-750px;
